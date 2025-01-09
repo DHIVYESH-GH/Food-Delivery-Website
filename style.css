@@ -1,0 +1,67 @@
+body{
+    background-color: black;
+}
+.hero {
+    background: url("backimage.jpeg") no-repeat center center/cover;
+    color: black;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.menu .item img {
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+.navbar {
+    padding: 1.5rem 1rem; 
+}
+
+.navbar .nav-link {
+    font-size: 1.2rem; 
+}
+
+.navbar-brand {
+    font-size: 1.5rem; 
+}
+.btn-warning:hover {
+    background-color: black; 
+    color: white; 
+}
+
+button.order-now {
+    background-color: #333; 
+    color: white; 
+    border: none; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+    transition: background-color 0.3s ease; 
+}
+
+button.order-now:hover {
+    background-color: black; 
+}
+button.order-now {
+    background-color: #28a745; 
+    color: white;
+    border: none;
+    padding: 10px 20px; 
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+button.order-now:hover {
+    background-color: black; 
+}
+
